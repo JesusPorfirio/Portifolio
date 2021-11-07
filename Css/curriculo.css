@@ -1,0 +1,51 @@
+body{
+    background-image: url(../Img/Fundo/madeiramesa.jpg);
+}
+
+#pagina{
+    background-color: white;
+    border: black solid;
+    margin: 80px 150px 45px 150px;
+    padding: 80px;
+}
+#capa{
+    max-width: 100%;
+    height: auto;
+}
+.linha{
+    border: 1px solid #00a6ac;
+    margin-bottom: 40px;
+}
+.flex{
+    display: flex;
+}
+.tabelaL{
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+.tabelaC200{
+    width: 200px;
+}
+.linhaM{
+    width: 90%;
+    border: 1px solid #00a6ac;
+    margin-bottom: 40px;
+}
+.barra{
+    margin-bottom: 8px;
+    border-radius: 2px;
+    background-color:  #00a6ac;
+}
+.linhaP{
+    border: 1px solid #00a6ac;
+    margin-bottom: 40px;
+}
+#colu60por{
+    width: 60%;
+}
+#colu3por{
+    width: 3%;
+}
+#colu37por{
+    width: 37%;
+}
