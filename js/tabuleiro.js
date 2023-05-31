@@ -1,5 +1,4 @@
-/*Easter egg FONTE: https://codepen.io/omarjadalla/pen/EykIs
-*/
+
 function inicia_jogo(){
 vez = "branco"; //vez de quem jogar
 
